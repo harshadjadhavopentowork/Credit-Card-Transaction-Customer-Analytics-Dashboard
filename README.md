@@ -36,6 +36,9 @@ The dashboards transform raw customer and transaction data into actionable insig
 # 3. 📊 Dashboard Preview
 
 ## 💰 Credit Card Transaction Report
+![Portfolio Overview](https://github.com/harshadjadhavopentowork/Credit-Card-Transaction-Customer-Analytics-Dashboard/blob/main/Page%201-%20Credit%20Card%20Transaction%20Report.PNG)
+
+Page 1- Credit Card Transaction Report
 
 The transaction dashboard analyzes:
 
@@ -58,6 +61,9 @@ The transaction dashboard analyzes:
 ---
 
 ## 👥 Credit Card Customer Report
+![Portfolio Overview](https://github.com/harshadjadhavopentowork/Credit-Card-Transaction-Customer-Analytics-Dashboard/blob/main/Page%202-%20Credit%20Card%20Transaction%20Report.PNG)
+
+Page 2- Credit Card Customer Report
 
 The customer dashboard analyzes:
 
